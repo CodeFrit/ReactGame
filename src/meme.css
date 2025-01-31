@@ -1,0 +1,22 @@
+h1{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow: 
+    2px 2px 0px black,  
+    -2px -2px 0px black,
+    2px -2px 0px black,
+    -2px 2px 0px black;
+}
+
+.dice-text{
+    font-size: 26pt;
+    justify-content: center;
+    display: inline-block;
+    height: 5rem;
+    width: 5rem;
+    resize: horizontal;
+    border-radius: 8px;
+    box-shadow: 0px 1px 8px #5e5e5e;
+    border: 0px dashed #3498db;
+    font-weight: 500;
+}
